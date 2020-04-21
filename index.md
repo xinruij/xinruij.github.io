@@ -6,7 +6,7 @@ I did my undergraduate studies at the University of Waterloo (majors: Combinator
 
 Email: firstname.lastname at epfl.ch
 
-[CV](./Academic_CV.pdf)
+[CV](/pdfs/Academic_CV.pdf)
 
 
 ## Publications
@@ -14,5 +14,6 @@ Email: firstname.lastname at epfl.ch
 ### 1. Fair Colorful k-Center Clustering
 Xinrui Jia, Kshiteej Sheth, and Ola Svensson
 * To appear in IPCO '20
+* [Poster](/pdfs/k-center_poster.pdf)
 
 
