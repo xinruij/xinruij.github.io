@@ -12,5 +12,4 @@ Email: firstname.lastname at epfl.ch
 Xinrui Jia, Kshiteej Sheth, and Ola Svensson
 * To appear in IPCO '20
 
-## Other
 
