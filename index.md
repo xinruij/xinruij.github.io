@@ -14,6 +14,7 @@ Email: firstname.lastname at epfl.ch
 Xinrui Jia, Kshiteej Sheth, and Ola Svensson
 * [Conference version:](https://link.springer.com/chapter/10.1007%2F978-3-030-45771-6_17) IPCO 2020
 * [Poster](/pdfs/k-center_poster.pdf)
+* [Talk](https://www.youtube.com/watch?v=E7CUukJE_9o&t=3s)
 * [Slides](/pdfs/k_center-slides.pdf) (first half of joint talk) from IPCO 2020
 
 
