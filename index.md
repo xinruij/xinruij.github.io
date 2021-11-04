@@ -10,7 +10,7 @@ Email: firstname.lastname at epfl.ch
 
 ## Publications
 
-### 1. Towards Non-Uniformk-Center with Constant Types of Radii
+### 1. Towards Non-Uniform k-Center with Constant Types of Radii
 Xinrui Jia, Lars Rohwedder, Kshiteej Sheth, Ola Svensson.
 
 To appear in SOSA 2022.
