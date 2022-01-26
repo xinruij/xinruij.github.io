@@ -19,7 +19,7 @@ Xinrui Jia, Lars Rohwedder, Kshiteej Sheth, Ola Svensson.
 ### 2. Nearly-Tight and Oblivious Algorithms for Explainable Clustering
 Buddhima Gamlath, Xinrui Jia, Adam Polak, Ola Svensson.
 * [Conference version:](https://openreview.net/pdf?id=OJXadQoWoTU) NeurIPS 2021
-* [Poster] (/pdfs/explainable_poster.pdf)
+* [Poster](/pdfs/explainable_poster.pdf)
 
 ### 3. Fair Colorful k-Center Clustering
 Xinrui Jia, Kshiteej Sheth, and Ola Svensson,
