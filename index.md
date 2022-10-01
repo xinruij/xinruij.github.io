@@ -7,7 +7,7 @@ I did my undergraduate studies at the University of Waterloo (majors: Combinator
 
 Email: firstname.lastname at epfl.ch
 
-[CV](/pdfs/Academic_CV.pdf)
+[CV](/pdfs/CV_updated.pdf)
 
 
 ## Publications
