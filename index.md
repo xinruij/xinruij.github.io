@@ -12,16 +12,20 @@ Email: firstname.lastname at epfl.ch
 
 ## Publications
 
-### 1. Towards Non-Uniform k-Center with Constant Types of Radii
-Xinrui Jia, Lars Rohwedder, Kshiteej Sheth, Ola Svensson.
-* [Conference version:](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977066.16) SOSA 2022.
+### 1. The Exact Bipartite Matching Polytope has Exponential Extension Complexity
+Xinrui Jia, Ola Svensson, Weiqiang Yuan.
+SODA 2023
 
-### 2. Nearly-Tight and Oblivious Algorithms for Explainable Clustering
+### 2. Towards Non-Uniform k-Center with Constant Types of Radii
+Xinrui Jia, Lars Rohwedder, Kshiteej Sheth, Ola Svensson.
+* [Conference version:](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977066.16) SOSA 2022
+
+### 3. Nearly-Tight and Oblivious Algorithms for Explainable Clustering
 Buddhima Gamlath, Xinrui Jia, Adam Polak, Ola Svensson.
 * [Conference version:](https://openreview.net/pdf?id=OJXadQoWoTU) NeurIPS 2021
 * [Poster](/pdfs/explainable_poster.pdf)
 
-### 3. Fair Colorful k-Center Clustering
+### 4. Fair Colorful k-Center Clustering
 Xinrui Jia, Kshiteej Sheth, and Ola Svensson.
 * [Conference version:](https://link.springer.com/chapter/10.1007%2F978-3-030-45771-6_17) IPCO 2020
 * [Poster](/pdfs/k-center_poster.pdf)
