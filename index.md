@@ -13,6 +13,8 @@ Email: firstname.lastname at epfl.ch
 ## Publications
 
 ### 1. The Exact Bipartite Matching Polytope has Exponential Extension Complexity
+* [Conference version:] (https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch61)
+* [arXiv version:] (https://arxiv.org/abs/2211.09106)
 Xinrui Jia, Ola Svensson, Weiqiang Yuan.
 SODA 2023
 
