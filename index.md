@@ -1,11 +1,11 @@
 # Xinrui Jia
 (shin-ray)
 
-I'm a fifth-year computer science PhD student at EPFL in the Theory Lab. My advisor is Prof. Ola Svensson. Broadly, I'm interested in approximation algorithms and discrete optimization and I have done some work on clustering. Recently, I finished a six-month internship in applied research at Apple.
+I recently graduated with a PhD in computer science from EPFL. Broadly, I worked on approximation algorithms and discrete optimization and I have done some work on clustering. Currently, I am working as a data scientist implementing scheduling algorithms at a start-up. I am teaching myself applied machine learning to augment my skills and to take on new projects in my work.
 
 I did my undergraduate studies at the University of Waterloo (majors: Combinatorics and Optimization, Pure Mathematics).
 
-Email: firstname.lastname at epfl.ch
+Email: firstname.lastname at alumni.epfl.ch
 
 [CV](/pdfs/CV_updated.pdf)
 
